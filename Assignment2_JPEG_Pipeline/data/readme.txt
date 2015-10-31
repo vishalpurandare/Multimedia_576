@@ -1,0 +1,1 @@
+All these 4 images are 352x288 RGB format.
